@@ -8,7 +8,7 @@ Faster R-CNN sử dụng CNN feature extract để extract convolution feature m
 
 ## Mask R-CNN
 Để từ bài toán object detection sang object segmentation, ta bổ sung thêm 2 convolutional layers vào mô hình Faster R-CNN.
-[piggyback](/images/piggyback.png)
+![piggyback](/images/piggyback.png)
 
 
 
